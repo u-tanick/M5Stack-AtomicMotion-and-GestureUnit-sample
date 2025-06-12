@@ -1,2 +1,4 @@
 # M5Stack-AtomicMotion-and-GestureUnit-sample
-Use AtomS3 ,AtomicMotion and GestureUnit
+
+Use AtomS3 ,AtomicMotion and GestureUnit sample
+
